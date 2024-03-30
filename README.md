@@ -4,8 +4,8 @@ Use as setas para mover a nave e X para atirar
 Não deixe que os Aliens cheguem à Terra ou destruam sua nave!
 
 
-Jogo feito em Construct3
-Jogue em:
+Jogo feito em Construct3,
+jogue em:
 
 https://gamefacef.netlify.app/
 
